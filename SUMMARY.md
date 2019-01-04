@@ -19,7 +19,7 @@
   * [测试用例](ce-shi-liu-cheng/ce-shi-yong-li.md)
   * [测试流程](ce-shi-liu-cheng/ce-shi-liu-cheng.md)
 * [环境管理](huan-jing-guan-li.md)
-  * 开发环境
+  * [开发环境](huan-jing-guan-li/kai-fa-huan-jing.md)
   * 测试环境
   * 代码环境
   * [管理环境](huan-jing-guan-li/guan-li-huan-jing.md)
