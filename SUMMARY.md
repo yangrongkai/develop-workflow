@@ -22,7 +22,7 @@
   * [开发环境](huan-jing-guan-li/kai-fa-huan-jing.md)
   * [测试环境](huan-jing-guan-li/ce-shi-huan-jing.md)
   * [运维环境](huan-jing-guan-li/yun-wei-huan-jing.md)
-  * 代码环境
+  * [代码环境](huan-jing-guan-li/dai-ma-huan-jing.md)
   * [管理环境](huan-jing-guan-li/guan-li-huan-jing.md)
   * 知识库环境
   * 文件环境
