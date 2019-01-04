@@ -18,6 +18,13 @@
 * [测试流程](ce-shi-liu-cheng.md)
   * [测试用例](ce-shi-liu-cheng/ce-shi-yong-li.md)
   * [测试流程](ce-shi-liu-cheng/ce-shi-liu-cheng.md)
+* [环境管理](huan-jing-guan-li.md)
+  * 开发环境
+  * 测试环境
+  * 代码环境
+  * [管理环境](huan-jing-guan-li/guan-li-huan-jing.md)
+  * 知识库环境
+  * 文件环境
 * [附录](fu-lu.md)
   * [版本控制](fu-lu/ban-ben-kong-zhi.md)
   * [迭代日历](fu-lu/die-dai-ri-li.md)
