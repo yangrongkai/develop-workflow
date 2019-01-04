@@ -25,7 +25,7 @@
   * [代码环境](huan-jing-guan-li/dai-ma-huan-jing.md)
   * [管理环境](huan-jing-guan-li/guan-li-huan-jing.md)
   * [知识库环境](huan-jing-guan-li/zhi-shi-ku-huan-jing.md)
-  * 文件环境
+  * [文件环境](huan-jing-guan-li/wen-jian-huan-jing.md)
 * [附录](fu-lu.md)
   * [版本控制](fu-lu/ban-ben-kong-zhi.md)
   * [迭代日历](fu-lu/die-dai-ri-li.md)
