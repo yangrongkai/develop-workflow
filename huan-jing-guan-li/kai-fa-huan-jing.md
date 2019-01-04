@@ -4,18 +4,3 @@
 * 数据库环境（mysql、sqlserver、orcle、mongodb....)
 * 缓存环境（memcache、redis....)
 * 消息队列环境（rabbitmq、activemq....)
-
-
-* mysql
-* sqlserver
-* orcle
-* mongodb
-* redis
-* memcache
-* elk
-* activemq
-* rabbit
-* ....
-
-代码工具：gitlab
-环境地址：192.168.3.249:10080
