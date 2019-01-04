@@ -20,7 +20,8 @@
   * [测试流程](ce-shi-liu-cheng/ce-shi-liu-cheng.md)
 * [环境管理](huan-jing-guan-li.md)
   * [开发环境](huan-jing-guan-li/kai-fa-huan-jing.md)
-  * 测试环境
+  * [测试环境](huan-jing-guan-li/ce-shi-huan-jing.md)
+  * [运维环境](huan-jing-guan-li/yun-wei-huan-jing.md)
   * 代码环境
   * [管理环境](huan-jing-guan-li/guan-li-huan-jing.md)
   * 知识库环境
