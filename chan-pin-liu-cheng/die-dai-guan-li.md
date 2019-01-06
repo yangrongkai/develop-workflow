@@ -16,7 +16,7 @@
 ---
 
 产品迭代计划书：
-![](/assets/customer_story.png)
+![](/assets/production_iteration_plan.png)
 
 
 
