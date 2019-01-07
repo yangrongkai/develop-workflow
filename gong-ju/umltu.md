@@ -19,10 +19,12 @@ UML（Unified Modeling Language）是一种统一建模语言，为面向对象�
 
 2.1.泛化
 【泛化关系】：是一种继承关系，表示一般与特殊的关系，它指定了子类如何继承父类的所有特征和行为。例如：老虎是动物的一种，即有老虎的特性也有动物的共性。
-![](/assets/generalize_ relation.png)
+![](/assets/generalize_relation.png)
 
 2.2.实现
 【实现关系】：是一种类与接口的关系，表示类是接口所有特征和行为的实现。
+
+
 
 * 类图
 * 时序图
