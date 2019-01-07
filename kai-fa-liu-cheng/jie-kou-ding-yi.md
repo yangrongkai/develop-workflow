@@ -25,8 +25,8 @@
 * 输出（@return）
 
 ---
-##### Example
-接口规范
+#### Example
+##### 接口规范
 ![](/assets/api_appoint.png)
 ![](/assets/error_info.png)
 ![](/assets/server_explain.png)
