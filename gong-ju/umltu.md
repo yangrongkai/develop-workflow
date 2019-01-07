@@ -84,7 +84,7 @@ UML（Unified Modeling Language）是一种统一建模语言，为面向对象�
 用活动图描述某个对象时，可以把涉及到的对象放置在活动图中，并用一个依赖将其连接到进行创建、修改和撤销的动作状态或者活动状态上，对象的这种使用方法就构成了对象流。对象流用带有箭头的虚线表示。
 ![](/assets/active_drawing_3.jpg)
 
-6、序列图-时序图（Sequence Diagrams）：
+##### 6、序列图-时序图（Sequence Diagrams）：
 
 交互图的一种，描述了对象之间消息发送的先后顺序，强调时间顺序。
 
@@ -115,15 +115,15 @@ UML（Unified Modeling Language）是一种统一建模语言，为面向对象�
 6.6 组合　　　　
 组合片段用来解决交互执行的条件及方式。它允许在序列图中直接表示逻辑组件，用于通过指定条件或子进程的应用区域，为任何生命线的任何部分定义特殊条件和子进程。常用的组合片段有：抉择、选项、循环、并行。
 
-7、协作图（Collaboration Diagrams）：
+##### 7、协作图（Collaboration Diagrams）：
 交互图的一种，描述了收发消息的对象的组织关系，强调对象之间的合作关系。时序图按照时间顺序布图，而写作图按照空间结构布图
 ![](/assets/collaboration_diagram.png)
 
-8、构件图（Component Diagrams）：
+##### 8、构件图（Component Diagrams）：
 构件图是用来表示系统中构件与构件之间，类或接口与构件之间的关系图。其中，构建图之间的关系表现为依赖关系，定义的类或接口与类之间的关系表现为依赖关系或实现关系。
 ![](/assets/component_diagrams.jpg)
 
-9、部署图（Deployment Diagrams）：
+##### 9、部署图（Deployment Diagrams）：
 描述了系统运行时进行处理的结点以及在结点上活动的构件的配置。强调了物理设备以及之间的连接关系。
 
 部署模型的目的：
