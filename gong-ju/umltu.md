@@ -3,15 +3,15 @@
 UML（Unified Modeling Language）是一种统一建模语言，为面向对象开发系统的产品进行说明、可视化、和编制文档的一种标准语言。下面将对UML的九种图+包图的基本概念进行介绍以及各个图的使用场景。
 
 #### 一、基本概念　　
-　　如下图所示，UML图分为用例视图、设计视图、进程视图、实现视图和拓扑视图，又可以静动分为静态视图和动态视图。静态图分为：用例图，类图，对象图，包图，构件图，部署图。动态图分为：状态图，活动图，协作图，序列图。
+如下图所示，UML图分为用例视图、设计视图、进程视图、实现视图和拓扑视图，又可以静动分为静态视图和动态视图。静态图分为：用例图，类图，对象图，包图，构件图，部署图。动态图分为：状态图，活动图，协作图，序列图。
 ![](/assets/uml_summary.png)
 
-1、用例图（UseCase Diagrams）： 
+##### 1、用例图（UseCase Diagrams）： 
 用例图主要回答了两个问题：1、是谁用软件。2、软件的功能。
 从用户的角度描述了系统的功能，并指出各个功能的执行者，强调用户的使用者，系统为执行者完成哪些功能。
 ![](/assets/user_case_2.png)
 
-2、类图（Class Diagrams）：
+##### 2、类图（Class Diagrams）：
 
 用户根据用例图抽象成类，描述类的内部结构和类与类之间的关系，是一种静态结构图。 在UML类图中，常见的有以下几种关系: 泛化（Generalization）,  实现（Realization），关联（Association)，聚合（Aggregation），组合(Composition)，依赖(Dependency)。
 
@@ -58,15 +58,15 @@ UML（Unified Modeling Language）是一种统一建模语言，为面向对象�
 2.7 各种类图关系
 ![](/assets/class_drawing.png)
 
-3、对象图（Object Diagrams）:
+##### 3、对象图（Object Diagrams）:
 描述的是参与交互的各个对象在交互过程中某一时刻的状态。对象图可以被看作是类图在某一时刻的实例。
 ![](/assets/object_drawing.jpg)
 
-4、状态图（Statechart Diagrams）：
+##### 4、状态图（Statechart Diagrams）：
 是一种由状态、变迁、事件和活动组成的状态机，用来描述类的对象所有可能的状态以及时间发生时状态的转移条件。
 ![](/assets/status_drawing.gif)
 
-5、活动图（Activity Diagrams）：
+##### 5、活动图（Activity Diagrams）：
 是状态图的一种特殊情况，这些状态大都处于活动状态。本质是一种流程图，它描述了活动到活动的控制流。　　　　
 
 交互图强调的是对象到对象的控制流，而活动图则强调的是从活动到活动的控制流。
