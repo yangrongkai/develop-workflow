@@ -34,4 +34,7 @@
   * [代码管理](fu-lu/dai-ma-guan-li.md)
   * [产品定义](fu-lu/chan-pin-ding-yi.md)
   * [迭代定义](fu-lu/die-dai-ding-yi.md)
+* [工具](gong-ju.md)
+  * E-R图
+  * [UML图](gong-ju/umltu.md)
 
