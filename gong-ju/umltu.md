@@ -45,8 +45,7 @@ UML（Unified Modeling Language）是一种统一建模语言，为面向对象�
 【代码体现】：成员变量
 
 【箭头及指向】：带实心菱形的实线，菱形指向整体
-
-
+![](/assets/combination.png)
 
 
 
