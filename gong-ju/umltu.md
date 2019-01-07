@@ -96,7 +96,10 @@ UML（Unified Modeling Language）是一种统一建模语言，为面向对象�
 
 6.1 生命线
 生命线名称可带下划线。当使用下划线时，意味着序列图中的生命线代表一个类的特定实例。
+![](/assets/sequence_chart_2.png)
 
+6.2 同步消息
+同步等待消息
 
 
 
