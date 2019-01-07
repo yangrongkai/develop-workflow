@@ -31,6 +31,7 @@
 ![](/assets/error_info.png)
 ![](/assets/server_explain.png)
 ![](/assets/sign_arithmetic.png)
+![](/assets/file_appoint.png)
 
 ##### 接口定义
 ![](/assets/api_example.png)
