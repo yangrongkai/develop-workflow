@@ -22,4 +22,5 @@
 * 输入（@param）
 * 输出（@return）
 
+![](/assets/api_example.png)
 
