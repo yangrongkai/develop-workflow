@@ -154,8 +154,10 @@ UML（Unified Modeling Language）是一种统一建模语言，为面向对象�
 UML图是软件工程的组成部分，软件工程从宏观的角度保证了软件开发的各个过程的质量。而UML作为一种建模语言，更加有效的实现了软件工程的要求。
 
 如下图，在软件的各个开发阶段需要的UML图。
+![](/assets/uml_and_software.png)
 
-
+下表是UML使用人员图示
+![](/assets/uml_manual.png)
 
 
 
