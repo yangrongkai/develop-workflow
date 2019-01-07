@@ -100,8 +100,20 @@ UML（Unified Modeling Language）是一种统一建模语言，为面向对象�
 
 6.2 同步消息
 同步等待消息
+![](/assets/sequence_chart_3.png)
 
+6.3 异步消息
+异步发送消息，不需等待
+![](/assets/sequence_chart_4.png)
 
+6.4 注释
+![](/assets/sequence_chart_5.png)
+
+6.5 约束
+![](/assets/sequence_chart_6.png)
+
+6.6 组合　　　　
+组合片段用来解决交互执行的条件及方式。它允许在序列图中直接表示逻辑组件，用于通过指定条件或子进程的应用区域，为任何生命线的任何部分定义特殊条件和子进程。常用的组合片段有：抉择、选项、循环、并行。
 
 
 * 类图
