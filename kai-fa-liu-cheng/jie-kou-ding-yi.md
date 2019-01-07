@@ -18,8 +18,8 @@
 * 名称
 * 作者（@author）
 * 版本（@version）
-* 描述（@author）
-* 输入（@author）
-* 输出（@author）
+* 描述（@desc）
+* 输入（@param）
+* 输出（@return）
 
 
