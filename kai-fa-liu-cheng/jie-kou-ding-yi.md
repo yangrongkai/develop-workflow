@@ -14,7 +14,9 @@
 * 文件传输
 * 签名算法
 * 其他.....
-
+![](/assets/api_appoint.png)
+![](/assets/error_info.png)
+![](/assets/server_explain.png)
 ![](/assets/sign_arithmetic.png)
 
 ##### 接口定义
@@ -24,6 +26,10 @@
 * 描述（@desc）
 * 输入（@param）
 * 输出（@return）
+
+---
+Example
+
 
 ![](/assets/api_example.png)
 
