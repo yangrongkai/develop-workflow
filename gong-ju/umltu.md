@@ -58,6 +58,13 @@ UML（Unified Modeling Language）是一种统一建模语言，为面向对象�
 2.7 各种类图关系
 ![](/assets/class_drawing.png)
 
+3、对象图（Object Diagrams）:
+描述的是参与交互的各个对象在交互过程中某一时刻的状态。对象图可以被看作是类图在某一时刻的实例。
+
+
+4、状态图（Statechart Diagrams）：
+是一种由状态、变迁、事件和活动组成的状态机，用来描述类的对象所有可能的状态以及时间发生时状态的转移条件。
+
 
 * 类图
 * 时序图
