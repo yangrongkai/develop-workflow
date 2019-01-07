@@ -20,7 +20,7 @@ PRD元素：
 参与者（Actor）、用例（Use Case），边界以及它们之间的关系构成的用于描述系统功能的视图
 ![](/assets/user_case.jpg)
 
-流程图：
+##### 流程图
 梳理需求流程，保证需求逻辑正确性。（活动、逻辑、方向）
 ![](/assets/flow_chart.jpeg)
 
