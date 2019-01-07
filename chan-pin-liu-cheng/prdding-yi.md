@@ -28,4 +28,5 @@ PRD元素：
 ![](/assets/mind_map.jpeg)
 
 线框图：
-
+针对流程图、思维导图所定义的逻辑、模块、功能、元素所进行的相关的页面框架展现。
+![](/assets/line_drawing.jpeg)
