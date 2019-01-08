@@ -35,6 +35,6 @@
   * [产品定义](fu-lu/chan-pin-ding-yi.md)
   * [迭代定义](fu-lu/die-dai-ding-yi.md)
 * [工具](gong-ju.md)
-  * E-R图
+  * [E-R图](gong-ju/e-rtu.md)
   * [UML图](gong-ju/umltu.md)
 
